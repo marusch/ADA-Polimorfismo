@@ -5,7 +5,7 @@ Desarrollo de ejercicios de Polimorfismo con las alumnas.
 
 ✋🏽 - Recuerden siempre entrar en las carpetas SRC.
 
-📚 - Encontraremos diferentes carpetas con el desarrollo de cada uno de los ejercicios hechos en clase a medida que vayamos avanzando en el modulo.
+📚 - Encontraremos diferentes carpetas con el desarrollo de cada uno de los ejercicios hechos en clase, así a medida que vayamos avanzando en el modulo.
 
 📁 - En Polimorfismo - tenemos el ejemplo de "Animal".
 
